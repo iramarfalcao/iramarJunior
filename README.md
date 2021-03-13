@@ -24,8 +24,8 @@ Here are some ideas to get you started:
 
 - 😄 Technology, financial market and entrepreneurship enthusiast.
 - ⚡ Fun fact: Critic of Handcrafted Hamburger.
-- 🔭 I am currently working with Kubernetes, Python, Scala and Data Science.
-- 🌱 I am currently learning Flutter and Machine Learning.
+- 🔭 I am currently working with Kotlin, Kubernetes and Microservices.
+- 🌱 I am currently learning Flutter and Game Development.
 
 ## Skills
 - Mobile Development
